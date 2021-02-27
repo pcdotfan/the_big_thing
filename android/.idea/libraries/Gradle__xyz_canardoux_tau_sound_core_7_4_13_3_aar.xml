@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: xyz.canardoux:tau_sound_core:7.4.13+3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7aa46551799f26723523aaf5aa991f35/jetified-tau_sound_core-7.4.13+3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7aa46551799f26723523aaf5aa991f35/jetified-tau_sound_core-7.4.13+3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7aa46551799f26723523aaf5aa991f35/jetified-tau_sound_core-7.4.13+3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

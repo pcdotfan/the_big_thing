@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.arthenica:mobile-ffmpeg-audio:4.3.1.LTS@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e479134924062496a5516707ccdc2464/jetified-mobile-ffmpeg-audio-4.3.1.LTS/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e479134924062496a5516707ccdc2464/jetified-mobile-ffmpeg-audio-4.3.1.LTS/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e479134924062496a5516707ccdc2464/jetified-mobile-ffmpeg-audio-4.3.1.LTS/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arthenica/mobile-ffmpeg-audio/4.3.1.LTS/26372cf5bcb03706664d7afabb9133c5d8192625/mobile-ffmpeg-audio-4.3.1.LTS-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.arthenica/mobile-ffmpeg-audio/4.3.1.LTS/29c0af841f3c09f970cb1c93d2cf708c84d36500/mobile-ffmpeg-audio-4.3.1.LTS-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
